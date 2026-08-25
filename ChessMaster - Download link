@@ -1,0 +1,80 @@
+<div align="center">
+
+# ♟️ ChessMaster - Black Bishop Edition ♟️
+
+**A modern, powerful standalone Chess Workstation with integrated Stockfish engine, DGT-style digital clock, and built-in opening exploration.**
+
+[![Python](https://img.shields.io/badge/Python-3.12-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Platform](https://img.shields.io/badge/Platform-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](#)
+[![Release](https://img.shields.io/badge/Release-v1.0.0-success?style=for-the-badge)](#)
+[![License](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)](LICENSE)
+
+<br/>
+
+[📥 Download Portable Edition](#-direct-download) • [✨ Key Features](#-features) • [🚀 Getting Started](#-getting-started) • [🔑 Activation](#-activation-guide)
+
+</div>
+
+---
+
+## 🌟 Overview
+
+**ChessMaster: Black Bishop Edition** is built for chess enthusiasts, learners, and analysts. It provides an offline, self-contained chess environment combining responsive board mechanics, adjustable AI engine strengths, dynamic clock modes, and customizable visual themes.
+
+---
+
+## ✨ Features
+
+* **⚡ Stockfish AI Engine:** Adjustable difficulty levels suitable for casual play up to grandmaster-level positional analysis.
+* **⏱️ DGT 3000 Style Clock:** Fischer/Bronstein delay & increment modes, blitz, rapid, and classic tournament time controls.
+* **🎨 Visual Customization:** High-contrast custom piece sets and dark/light board themes.
+* **📦 100% Portable:** Single standalone application without requiring external python environments or dependency installation.
+
+---
+
+## 📥 Direct Download
+
+You can download the ready-to-play portable build directly from Google Drive:
+
+<div align="center">
+
+[![Download Portable Edition](https://img.shields.io/badge/Download_Portable_ZIP-Google_Drive-34A853?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1iaDP9ZMX7A4GVBDa3t1ME1r0YHX9w9Q3/view?usp=drive_link)
+
+</div>
+
+> **Note:** Extract the downloaded `.zip` file and launch `ChessMaster.exe` directly.
+
+---
+
+## 🔑 Activation Guide
+
+1. Launch `ChessMaster.exe`.
+2. Locate the activation window and take note of your **Machine Lock Code** (or run `crack/ckInfo+.exe`).
+3. Open `crack/Bishop_keygen.exe`, enter your username and lock code.
+4. Generate the key, paste it into the activation dialog, and unlock the full workstation.
+
+---
+
+## 🛠️ Tech Stack & Requirements
+
+| Component | Specification |
+| :--- | :--- |
+| **Language** | Python 3.12+ |
+| **Engine** | Stockfish UCI Protocol |
+| **Packaging** | PyInstaller (Standalone Portable) |
+| **OS Support** | Windows 10 / 11 (64-bit) |
+
+---
+
+## 👨‍💻 Developer & Credits
+
+* **Developed & Maintained by:** [Xpresso5TV](https://www.youtube.com/@Xpresso5TV)
+* **Contact:** `nivedhyam113@gmail.com`
+
+---
+
+<div align="center">
+
+⭐ **If you find this project useful, consider giving it a star on GitHub!** ⭐
+
+</div>
